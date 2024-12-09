@@ -1,4 +1,4 @@
-This repository contains a flood vulnerability prediction model. To input your data for each criterion (e.g.Rainfall (mm), Elevation (m), Slope) and get flood predictions, follow these steps:
+This repository contains a flood vulnerability prediction model. To input your data for each flood parameter (e.g.Rainfall (mm), Elevation (m), Slope) and get flood predictions, follow these steps:
 
 ### Step 1: Launch the Notebook on Binder
 - Click on the **Binder badge** to launch the notebook in an interactive environment:
