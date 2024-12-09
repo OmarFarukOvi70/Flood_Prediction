@@ -1,7 +1,7 @@
 This repository contains a flood vulnerability prediction model. To use the model and get flood predictions, follow these steps:
 
 ### Step 1: Launch the Notebook on Binder
-- Click on the **Binder badge** below to launch the notebook in an interactive environment:
+- Click on the **Binder badge** to launch the notebook in an interactive environment:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OmarFarukOvi70/Flood_Prediction/main)
 
 ### Step 2: Input Data for Prediction
