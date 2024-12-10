@@ -8,6 +8,6 @@ This repository contains a flood vulnerability prediction model. To input your d
 Once the notebook opens, you will be prompted to enter values such as:
 - **Rainfall (mm)**
 - **Elevation (m)**
-- **Slope (degrees)**
+- **Slope (%)**
 ### Step 3: View the Prediction
 Once you’ve entered all the required data, the notebook will display the flood risk prediction based on your inputs.
