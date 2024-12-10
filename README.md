@@ -1,10 +1,10 @@
-This repository contains a flood vulnerability prediction model. To input your data for each flood parameter (e.g.Rainfall (mm), Elevation (m), Slope) and get flood predictions, follow these steps:
+This repository contains a flood vulnerability prediction model. To see the flood vulnerability level (e.g. highly Vulnerable, Moderately Vulnerable, Less Vulnerable) of any location based on its flood-related parameter (e.g.Rainfall, Elevation, Slope), follow these steps:
 
 ### Step 1: Launch the Notebook on Binder
 - Click on the **Binder badge** to launch the notebook in an interactive environment:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OmarFarukOvi70/Flood_Prediction/main)
 
-### Step 2: Input Data for Prediction
+### Step 2: Input Parameter's Value for Your Selected Location
 Once the notebook opens, you will be prompted to enter values such as:
 - **Rainfall (mm)**
 - **Elevation (m)**
