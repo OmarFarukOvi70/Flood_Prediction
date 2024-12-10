@@ -1,4 +1,4 @@
-This repository contains a flood vulnerability prediction model. To see the flood vulnerability level (e.g. highly Vulnerable, Moderately Vulnerable, Less Vulnerable) of any location based on its flood-related parameter (e.g.Rainfall, Elevation, Slope), follow these steps:
+This repository contains a flood vulnerability prediction model. To see the "Flood Vulnerability Level" (e.g. Highly Vulnerable, Moderately Vulnerable, Less Vulnerable) of any location based on its flood-related parameter (e.g.Rainfall, Elevation, Slope), follow these steps:
 
 ### Step 1: Launch the Notebook on Binder
 - Click on the **Binder badge** to launch the notebook in an interactive environment:
